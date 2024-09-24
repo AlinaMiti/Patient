@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Patient/build",
+  "command": "C:\\Users\\alina\\Downloads\\x86_64-13.2.0-release-win32-seh-ucrt-rt_v11-rev0\\mingw64\\bin\\g++.exe    -std=c++20 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Patient\\main.cpp",
+  "file": "C:/Patient/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]
